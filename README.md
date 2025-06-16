@@ -6,7 +6,7 @@ Este proyecto es un CV interactivo diseñado con HTML, CSS y JavaScript, que pre
 
 ## 🌐 Demo
 
-[🔗 Ver en GitHub Pages](https://tuusuario.github.io/cv-sergio/)
+[🔗 Ver en GitHub Pages](https://sergiosilva-dev.github.io/curriculum-interactivo/)
 
 ---
 
