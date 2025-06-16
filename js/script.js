@@ -1,3 +1,10 @@
+/**
+ * Autor: Sergio Silva
+ * Fecha: 2025-06-16
+ * Descripción: Control de interacción del CV interactivo, incluyendo
+ * el modo oscuro, menú responsive y futuras animaciones.
+ */
+
 // Espera a que todo el DOM cargue
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("form-contacto");
